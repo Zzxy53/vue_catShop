@@ -1,0 +1,87 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3002509 */
+  src: url('iconfont.woff2?t=1639999855963') format('woff2'),
+       url('iconfont.woff?t=1639999855963') format('woff'),
+       url('iconfont.ttf?t=1639999855963') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ali-icon-calendar:before {
+  content: "\e664";
+}
+
+.ali-icon-smile:before {
+  content: "\e614";
+}
+
+.ali-icon-envelope:before {
+  content: "\e686";
+}
+
+.ali-icon-love1:before {
+  content: "\e665";
+}
+
+.ali-icon-sign-out:before {
+  content: "\e67d";
+}
+
+.ali-icon-shopping:before {
+  content: "\e64b";
+}
+
+.ali-icon-pencil:before {
+  content: "\e636";
+}
+
+.ali-icon-Plane:before {
+  content: "\e606";
+}
+
+.ali-icon-school:before {
+  content: "\e62b";
+}
+
+.ali-icon-love:before {
+  content: "\e66b";
+}
+
+.ali-icon-star-fill:before {
+  content: "\e86a";
+}
+
+.ali-icon-googleplus:before {
+  content: "\e87a";
+}
+
+.ali-icon-instagram:before {
+  content: "\e87f";
+}
+
+.ali-icon-twitter:before {
+  content: "\e882";
+}
+
+.ali-icon-refresh:before {
+  content: "\e6a2";
+}
+
+.ali-icon-star-half:before {
+  content: "\e61a";
+}
+
+.ali-icon-pinterest:before {
+  content: "\e685";
+}
+
+.ali-icon-facebook:before {
+  content: "\e634";
+}
+
